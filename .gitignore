@@ -1,0 +1,8 @@
+# Ignore files
+*.mp4
+
+# Ignore Folders
+model/
+__pycache__/
+sample/
+

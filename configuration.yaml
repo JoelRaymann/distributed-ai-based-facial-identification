@@ -1,0 +1,14 @@
+# Configuration
+## Frame Resolution
+frame_resolution:
+  width: 480
+  height: 854
+
+## Threshold for MTCNN face detection
+mtcnn_threshold: 0.9
+
+## Face Verification Threshold
+face_threshold: 0.6871912
+
+## Master
+master: "yarn" # Or local
